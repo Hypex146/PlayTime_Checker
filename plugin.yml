@@ -1,0 +1,13 @@
+name: PlayTime_checker
+version: 0.1
+author: Hypex
+main: PlayTime_checker.Main
+api-version: 1.13
+commands:
+   ptc:
+      description: None.
+permissions:
+   ptc.*:
+      description: Gives access to all commands.
+   ptc.reset:
+      description: None.
